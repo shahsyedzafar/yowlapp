@@ -1,0 +1,23 @@
+body {
+	margin-top: 300px;
+	text-align: center;
+} 
+a {
+	text-decoration: inherit;
+}
+.main_btn {
+	color: #31A6FF;
+	font-family: "proxima-nova";
+	font-weight: 100;
+	font-size: 56px;
+	font-align: center;
+	border: solid 2px #31A6FF;
+	border-radius: 50px;
+	padding: 10px 80px;
+	
+}
+
+.main_btn:hover {
+	background-color: #31A6FF;
+	color: #fff;
+}

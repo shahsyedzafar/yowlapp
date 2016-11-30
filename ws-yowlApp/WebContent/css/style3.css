@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	font-size: 11pt;
+	background-size: cover;
+	background-attachment: fixed;
+}
+table {
+	width: 1000%;	
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	opacity: 0.95;
+}
+th, td {
+	padding: 10px;
+	text-align: center;
+}
+th {
+	background-color: #31A6FF;
+}
+
+tr {
+	background-color: white;
+}
+
+#header {
+	background-color: red;
+}
