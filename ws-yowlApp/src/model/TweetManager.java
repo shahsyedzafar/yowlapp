@@ -149,10 +149,6 @@ public class TweetManager {
 		  return result;
 		}
 	
-	   public static void main(String[] args){
-    TweetManager.getInstance().GetTweetsByTouristSpot("Jesus Maria, California");
-    //UniversityManager.getInstance().GetUniversityByCity("Tempe");
-    
-}
+
 
 }

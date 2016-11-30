@@ -2,6 +2,8 @@
 
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 import javax.servlet.RequestDispatcher;
@@ -42,23 +44,53 @@ public class IndexServlet extends HttpServlet {
 		
 		System.out.println("Hello World");
 		RequestDispatcher rd = null;
+		TweetManager tm = null;
+		SpotManager sm = null;
 		
 		if(request.getParameter("univName") != null) {
 			String univName = request.getParameter("univName");
 			UniversityManager univManager = new UniversityManager();
 			University univ = univManager.GetUniversityByName(univName);
 			request.setAttribute("pojo", univ);
+			
+			
+			//get tourist spots present in the university's state
+			sm = new SpotManager();
+			List<TouristSpot> touristSpots = sm.GetSpotByLocation(univ.getState());
+			List<String> ts_names = new ArrayList<String>();
+			
+			
+			Iterator<TouristSpot> it = touristSpots.iterator();
+			
+			//System.out.println("Printing tourist spot names");
+			while(it.hasNext()) {
+				if(!ts_names.contains(it.next().getName())) {
+					ts_names.add(it.next().getName());
+				}
+				
+			}
+			System.out.println("Printing clean names!");
+			Iterator<String> it2 = ts_names.iterator();;
+			while(it2.hasNext()) {
+				System.out.println(it2.next());
+				
+			}
+			
+			
+			request.setAttribute("touristSpots", ts_names);
 			rd = request.getRequestDispatcher("WEB-INF/displayUniversity.jsp");
 			rd.forward(request, response);
+			
 		}
 		
 		if(request.getParameter("touristSpotName") != null) {
 			String spotName = request.getParameter("touristSpotName");
-			SpotManager sm = new SpotManager();
+			sm = new SpotManager();
 			TouristSpot spot = sm.GetSpotByName(spotName);
 			request.setAttribute("spot", spot);
 			
-			TweetManager tm = new TweetManager();
+			
+			tm = new TweetManager();
 			List<Tweet> tweets = tm.GetTweetsByTouristSpot(spotName);
 			
 			if(tweets.size()==0) {

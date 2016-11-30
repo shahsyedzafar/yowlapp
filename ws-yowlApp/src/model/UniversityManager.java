@@ -171,7 +171,9 @@ public class UniversityManager {
 		  finally { qexec.close();}
 		  System.out.println(result.getName());
 		  System.out.println(result.getHomePage());
+		  System.out.println("State");
 		  System.out.println(result.getState());
+		  System.out.println("City");
 		  System.out.println(result.getLocation());
 		  System.out.println(result.getChairPerson());
 		  System.out.println(result.getMapURL());
@@ -179,10 +181,6 @@ public class UniversityManager {
 		}
 	
 	 
-    public static void main(String[] args){
-        UniversityManager.getInstance().GetUniversityByName("The Art Institute of Indianapolis");
-        UniversityManager.getInstance().GetUniversityByCity("Tempe");
-        
-    }
+   
 
 }

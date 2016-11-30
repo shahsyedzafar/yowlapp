@@ -62,21 +62,43 @@ tr {
 	
 	
 	<table align = "center">
-		<tr><td id="header" colspan="5"><h1>University details</h1></td></tr>
+		<tr><td id="header" colspan="6"><h1>University details</h1></td></tr>
 		<tr>
 			<th>University Name</th>
 			<th>Homepage</th>
 			<th>Location</th>
 			<th>State</th>
 			<th>Chairperson</th>
+			<th>GoogleMap</th>
 		</tr>
 		<tr>
 		<td>${requestScope['pojo'].name}</td>
-		<td>${requestScope['pojo'].homePage}</td>
+		<td><a href="${pojo.getHomePage()}">${pojo.getHomePage()}</a></td>
 		<td>${requestScope['pojo'].location}</td>
 		<td>${requestScope['pojo'].state}</td>
 		<td>${requestScope['pojo'].chairPerson}</td>
+		<td>${requestScope['pojo'].getMapURL()}</td>
+		
 		</tr>		
 	</table>	
+	
+	<c:if test="${not empty touristSpots}">
+	<table align = "center">
+		<tr><td id="header" colspan="1"><h1>Tourist Spots around!</h1></td></tr>
+		<tr>
+			<th>Spots</th>
+		</tr>	
+			<tr>
+			<td>
+			<c:forEach items="${touristSpots}" var = "spot">
+					<a href = "IndexServlet?touristSpotName=${spot}">${spot}</a>
+			</c:forEach>
+			</td>	
+			</tr>			
+	</table>
+	</c:if>
+	
+	
+	
 </body>
 </html>

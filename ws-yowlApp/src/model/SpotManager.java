@@ -169,9 +169,9 @@ public class SpotManager {
 		}
 
 	
-/*	  public static void main(String[] args){
-    //SpotManager.getInstance().GetSpotByLocation("California");
-    SpotManager.getInstance().GetSpotByName("Jesus Maria, California");
+	  public static void main(String[] args){
+    SpotManager.getInstance().GetSpotByLocation("California");
+    //SpotManager.getInstance().GetSpotByName("Jesus Maria, California");
     
-}*/
+}
 }
