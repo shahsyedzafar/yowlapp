@@ -112,13 +112,15 @@ public class SpotManager {
 	public TouristSpot GetSpotByName(String Name){
 		populateSpot();
 		TouristSpot result = new TouristSpot();
+		Name = Name.split("\\(")[0];
+		
 		String queryRequest = " select DISTINCT ?name ?img ?location ?comment where { ?spot sp:has_name ?name;"
 				 
                 + "sp:has_review ?comment."
                 + "OPTIONAL{?spot sp:located_in ?location}"
                 + "OPTIONAL{?spot sp:has_picture ?img}"
                 + "FILTER regex(?name, '"+Name +"')}";
-        //System.out.println(queryRequest);
+        System.out.println(queryRequest);
 		
 		StringBuffer queryStr = new StringBuffer();
 		
@@ -181,8 +183,8 @@ public class SpotManager {
 
 	
 	  public static void main(String[] args){
-    SpotManager.getInstance().GetSpotByLocation("California");
-    //SpotManager.getInstance().GetSpotByName("Jesus Maria, California");
+    //SpotManager.getInstance().GetSpotByLocation("California");
+    SpotManager.getInstance().GetSpotByName("Highland Park (Pittsburgh)");
     
 }
 }

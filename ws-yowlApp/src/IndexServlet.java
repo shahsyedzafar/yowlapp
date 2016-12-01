@@ -98,7 +98,9 @@ public class IndexServlet extends HttpServlet {
 		
 		///////////Tourist Spot -------------
 		if(request.getParameter("touristSpotName") != null) {
+	
 			String spotName = request.getParameter("touristSpotName");
+
 			sm = new SpotManager();
 			TouristSpot spot = sm.GetSpotByName(spotName);
 			System.out.println("Printing Name---------");
@@ -133,6 +135,10 @@ public class IndexServlet extends HttpServlet {
 			rd = request.getRequestDispatcher("WEB-INF/displaySpot.jsp");
 			rd.forward(request, response);
 			
+		}
+		
+		if(request.getParameter("inputname")!=null) {
+			System.out.println("Ajax request!----");
 		}
 		
 		
