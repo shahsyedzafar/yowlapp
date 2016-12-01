@@ -165,6 +165,17 @@ public class SpotManager {
 		  System.out.println(result.getName());
 		  System.out.println(result.getLocation());
 		  System.out.println(result.getComment());
+		 
+		  if(result.getComment().equals("")){
+			  result.setComment("Absent");
+		  } else if(result.getImg_path().equals("")) {
+			  result.setImg_path("Absent");
+		  } else if(result.getLocation().equals("")) {
+			  result.setLocation("Absent");
+		  } else if(result.getName().equals("")) {
+			  result.setName("Absent");
+		  }
+		  
 		  return result;
 		}
 

@@ -57,39 +57,54 @@ public class IndexServlet extends HttpServlet {
 			//get tourist spots present in the university's state
 			sm = new SpotManager();
 			List<TouristSpot> touristSpots = sm.GetSpotByLocation(univ.getState());
-			List<String> ts_names = new ArrayList<String>();
+			List<String> ts_names = null;
+			ts_names = new ArrayList<String>();
 			
 			
-			Iterator<TouristSpot> it = touristSpots.iterator();
-			
-			//System.out.println("Printing tourist spot names");
-			while(it.hasNext()) {
-				if(!ts_names.contains(it.next().getName())) {
-					ts_names.add(it.next().getName());
+			if(touristSpots.size()>0) {
+				
+				Iterator<TouristSpot> it = touristSpots.iterator();
+				while(it.hasNext()) {
+					TouristSpot each_Spot = it.next();
+					System.out.println("Printing it.next");
+					System.out.println(each_Spot);
+					
+					if(null != each_Spot && !(ts_names.contains(each_Spot.getName()))) {
+						ts_names.add(each_Spot.getName());
+					}
+					
 				}
+				request.setAttribute("touristSpots", ts_names);
 				
-			}
-			System.out.println("Printing clean names!");
-			Iterator<String> it2 = ts_names.iterator();;
-			while(it2.hasNext()) {
-				System.out.println(it2.next());
 				
+			} else {
+				request.setAttribute("touristSpots", null);
 			}
 			
 			
-			request.setAttribute("touristSpots", ts_names);
+			String googleUrl;
+			googleUrl = univName.replaceAll("\\s", "+");
+			System.out.println("Google Url"+googleUrl);
+			request.setAttribute("GoogleUrl", googleUrl);
+			
+			
 			rd = request.getRequestDispatcher("WEB-INF/displayUniversity.jsp");
 			rd.forward(request, response);
 			
 		}
 		
+		
+		
+		
+		///////////Tourist Spot -------------
 		if(request.getParameter("touristSpotName") != null) {
 			String spotName = request.getParameter("touristSpotName");
 			sm = new SpotManager();
 			TouristSpot spot = sm.GetSpotByName(spotName);
+			System.out.println("Printing Name---------");
+			System.out.println(spot.getName());
 			request.setAttribute("spot", spot);
-			
-			
+		
 			tm = new TweetManager();
 			List<Tweet> tweets = tm.GetTweetsByTouristSpot(spotName);
 			
@@ -97,12 +112,22 @@ public class IndexServlet extends HttpServlet {
 				tweets = tm.GetTweetsByTouristSpot(spot.getLocation());
 			}
 			
+			
 		
 			request.setAttribute("tweets", tweets);
 			
 			System.out.println("Printing tweet objects");
 			for(int i=0;i<tweets.size();i++) {
 				System.out.println(tweets.get(i));
+			}
+			
+			//sending google map url
+			
+			String name_spot = request.getParameter("touristSpotName");
+			if(request.getParameter("value") != null) {
+				String univ_Name = request.getParameter("value");
+				request.setAttribute("value",univ_Name);
+				
 			}
 		
 			rd = request.getRequestDispatcher("WEB-INF/displaySpot.jsp");

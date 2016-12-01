@@ -28,5 +28,32 @@ p {
 	position: absolute;
 	left: auto;
 	right: auto;
+}
+
+#subtitle {
+	position: relative;
+	align:center;
+	top: 170px;
+}
+
+#getStarted {
+	position: relative;
+	top: 100px;
 	
 }
+#getStarted:hover {
+	color: #fff;
+}
+#gsb {
+	
+	width: 12em;
+	height: 5em;
+	font-family: proxima:nova;
+	}
+#gsb:hover {
+	background-color: white;
+	color: green;
+}
+
+
+

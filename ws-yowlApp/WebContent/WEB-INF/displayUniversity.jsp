@@ -6,7 +6,7 @@
 <html lang ="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>University_Display</title>
 
 <style>
 
@@ -18,6 +18,7 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 	background-image: url(http://randomwallpapers.net/university-of-otago-dunedin-new-zealand-world-1920x1200-wallpaper159079.jpg);
+	opacity: 0.95;
 }
 
 table {
@@ -47,56 +48,179 @@ tr {
 	color: white;
 }
 
+tr:nth-child(even) td{
+	background-color: white;
+}
+
+tr:NTH-CHILD(odd) td{
+	background-color:#EEEEEE;
+}
 
 
+#gframe {
+	align:center;
+	position: relative;
+	top: 0px;
+	left:0px;
+
+}
+
+#location_heading {
+	position: absolute;
+	left: 100px;
+	right: 100px;
+	
+}
+#location_heading h {
+	position: relative;
+	font-family: proxima:nova;
+	font-size: 50px;
+	color: white;
+	left: 80px;
+	top: 85px;
+	opacity:10.0;
+}
+
+#spots_suggest {
+	position:relative;
+	top:80px;
+	right: 60x;
+
+	
+}
+
+
+
+#div_container {
+	position: relative;
+	bottom:30px;
+}
+
+#spot_suggest_container {
+	position: absolute;
+	right: 420px;
+}
+
+#location_container {
+	position: absolute;
+	left:50px; 
+	top: 288px;
+	width: 90px;
+}
+
+#spots_table {
+	width: 155%;
+	height: 300%
+}
+#loc_table{
+	width: 10%;
+	height: 80%;
+	position: relative;
+	left: 120px;
+
+}
+#loc_table td{
+	width: 20%;
+
+}
+
+#tab_pane {
+	position: absolute;
+	left:20px;
+	top:20px;
+	width: 2%;
+	height: 2%;
+}
+.back-btn {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+}
 
 </style>
-
-
 </head>
 <body>
 
+<a  href="buttonsPage.html">
+	<img src="back_button.png">
+</a>
 
-
-	<p>Message:</p>
-	
-	
-	<table align = "center">
+<div id = "div_container">
+	<div id = "univ_container">
+				<table class = "table table-striped" align = "center">
 		<tr><td id="header" colspan="6"><h1>University details</h1></td></tr>
 		<tr>
 			<th>University Name</th>
 			<th>Homepage</th>
-			<th>Location</th>
+			<th>City</th>
 			<th>State</th>
 			<th>Chairperson</th>
-			<th>GoogleMap</th>
 		</tr>
 		<tr>
 		<td>${requestScope['pojo'].name}</td>
-		<td><a href="${pojo.getHomePage()}">${pojo.getHomePage()}</a></td>
+		<td><a href="http://${pojo.getHomePage()}">${requestScope['pojo'].homePage}</a></td>
 		<td>${requestScope['pojo'].location}</td>
 		<td>${requestScope['pojo'].state}</td>
 		<td>${requestScope['pojo'].chairPerson}</td>
-		<td>${requestScope['pojo'].getMapURL()}</td>
-		
 		</tr>		
 	</table>	
-	
-	<c:if test="${not empty touristSpots}">
-	<table align = "center">
+	</div>
+	<div id = "spot_suggest_container">
+			<c:if test="${not empty touristSpots}">
+	<div id ="spots_suggest" align="center">
+	<table id="spots_table">
 		<tr><td id="header" colspan="1"><h1>Tourist Spots around!</h1></td></tr>
 		<tr>
 			<th>Spots</th>
 		</tr>	
 			<tr>
 			<td>
-			<c:forEach items="${touristSpots}" var = "spot">
-					<a href = "IndexServlet?touristSpotName=${spot}">${spot}</a>
-			</c:forEach>
+			<ul style="list-style-type:none" class="list-group">
+				<c:forEach items="${touristSpots}" var = "spot">
+					<li class = "list-group-item"><a href = "IndexServlet?touristSpotName=${spot}&value=${requestScope['pojo'].name}">${spot}</a></li>
+				</c:forEach>
+			</ul>
+			
 			</td>	
 			</tr>			
 	</table>
+</div>
 	</c:if>
+	</div>
+	
+	<div id="location_container">
+	
+
+	<table id = "loc_table">
+		<tr>
+			<td id="header"><b>Location</b></h></td>
+		</tr>
+		<tr>
+		<td>
+				<div id="gframe">
+					<iframe width="550" height="340" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyARCDT0mTYFGJ1sAiXEGkwbZKA5D8DWdU4&q=${GoogleUrl}/" >
+					</iframe>
+				</div>
+		</td>	
+		</tr>
+	</table>
+	</div>
+	
+	
+	
+	
+</div>
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
 	
 	
 	

@@ -7,7 +7,7 @@
 <html lang ="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/WebContent/WEB-INF/css/style3.css">
+<link rel="stylesheet" type="text/css" href="ws-yowlApp/css/style3.css">
 <style>
 body {
 	font-family: sans-serif;
@@ -15,6 +15,7 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 	background-image: url(http://travel.aarp.org/content/dam/travel/destination-images/grand-canyon-national-park/2014-01/1400-grand-canyon-national-park-hiker.jpg);
+	opacity:0.95;
 }
 table {
 	width: 80%;
@@ -43,39 +44,103 @@ tr {
 	color: white;
 }
 
+tr:nth-child(even) td{
+	background-color: white;
+}
+
+tr:NTH-CHILD(odd) td{
+	background-color:#EEEEEE;
+}
+
+#nodata {
+	font-family: proxima:nova;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	opacity:10.0;
+
+}
+
+#spot_div {
+	position:relative;
+	top:0px;
+	bottom: 80px;
+}
+
 </style>
 
 
-<title>Insert title here</title>
+<title>DisplaySpots</title>
 </head>
 <body>
-<table align ="center">
+
+<c:choose>
+	<c:when test="${not empty value}">
+		<a href = "IndexServlet?univName=${value}">
+		<img src="back_button.png">
+		</a>
+	</c:when>
+	<c:otherwise>
+		
+		<a  href="buttonsPage.html">
+			<img src="back_button.png">
+		</a>
+	
+	</c:otherwise>
+
+</c:choose>
+
+
+
+
+<div id = "spot_div">
+
+	<table align ="center">
 	<tr>
 		<td id="header" colspan= "4"><h1>Tourist Spot Details</h1></td>
 	</tr>
 	<tr>
 	
 		<th>Name</th>	
-		<th>Location</th>
+		<th>City</th>
 		<th>ImagePath</th>
 		<th>Comment</th>
 	</tr>
-	<tr>
-		<td>${spot.getName()}</td>
-		<td>${spot.getLocation()}</td>
-		<td>${spot.getImg_path()}</td>
-		<td>${spot.getComment()}</td>
-	</tr>
+	<c:choose>
+		<c:when test="${not empty spot}">
+			<tr>
+				<td>${spot.getName()}</td>
+				<td>${spot.getLocation()}</td>
+				<td>${spot.getImg_path()}</td>
+				<td>${spot.getComment()}</td>
+			</tr>
+
+		</c:when>
+		<c:otherwise>
+			<tr>
+				<td colspan="4">No Data Available</td>
+			</tr>
+		</c:otherwise>
+	
+	
+	
+	</c:choose>
+	
+	
 </table>
+	
 
+</div>
 
-<table align ="center">
-	<tr>
-		<td id="header" colspan= "4"><h1>Tweets Data</h1></td>
-	</tr>
-	<tr>
-		<th>TouristSpot</th>
-		<th>Hashtag</th>
+<c:choose> 
+	<c:when test="${not empty tweets}">
+		<table align ="center">
+			<tr>
+				<td id="header" colspan= "4"><h1>Tweets Data</h1></td>
+			</tr>
+			<tr>
+				<th>TouristSpot</th>
+				<th>Hashtag</th>
 		<th>Data</th>
 		<th>Media</th>
 		
@@ -97,6 +162,15 @@ tr {
 		</tr>
 	</c:forEach>
 </table>
+		
+	</c:when>
+	<c:otherwise>
+		<h1 id = "nodata">No tweet data Available for ${spot.getName()}</h1>
+	</c:otherwise>
+</c:choose>
+
+
+
 
 
 

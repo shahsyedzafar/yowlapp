@@ -1,4 +1,4 @@
-﻿<rdf:RDF
+<rdf:RDF
     xmlns:rdf123="http://rdf123.umbc.edu/ns/"
     xmlns:sp="http://www.semanticweb.org/group5/ontologies/semanticProject/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -6,7 +6,7 @@
     <sp:has_name>Fiddletown, California</sp:has_name>
     <sp:located_in>Amador County, California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fiddletown,_California.jpg"/>
-    <sp:has_review>Fiddletown (from 1878 to 1932, Oleta) is a census-designated place in Amador County, California. It lies at an elevation of 1683 feet (513 m). It is located at 38掳30鈥�14鈥砃 120掳45鈥�20鈥砏. The town is registered as a California Historical Landmark and is listed in the National Register of Historic Places (NPS-78000655). The community is in ZIP code 95629 and area code 209. Fiddletown's population was 235 at the 2010 census.</sp:has_review>
+    <sp:has_review>Fiddletown (from 1878 to 1932, Oleta) is a census-designated place in Amador County, California. It lies at an elevation of 1683 feet (513 m). It is located at 38°30′14″N 120°45′20″W. The town is registered as a California Historical Landmark and is listed in the National Register of Historic Places (NPS-78000655). The community is in ZIP code 95629 and area code 209. Fiddletown's population was 235 at the 2010 census.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Strawberry,_El_Dorado_County,_California">
@@ -78,7 +78,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Belt_Woods">
     <sp:has_name>Belt Woods</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/BeltWoods1a.JPG"/>
-    <sp:has_review>Belt Woods is a nature reserve in Prince George's County, Maryland, U.S., containing the 鈥淪outh Woods鈥�, a 43-acre (170,000 m2) woodland which constitutes one of the last stands of old growth hardwood forest on the Atlantic coastal plain. It is a mere 8 miles (13 km) east of Washington, D.C. Many of its white oaks and tulip poplars are more than three feet in diameter and soar more than 100 feet (30 m) before branching.</sp:has_review>
+    <sp:has_review>Belt Woods is a nature reserve in Prince George's County, Maryland, U.S., containing the “South Woods”, a 43-acre (170,000 m2) woodland which constitutes one of the last stands of old growth hardwood forest on the Atlantic coastal plain. It is a mere 8 miles (13 km) east of Washington, D.C. Many of its white oaks and tulip poplars are more than three feet in diameter and soar more than 100 feet (30 m) before branching.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Mariemont,_Ohio">
     <sp:has_name>Mariemont, Ohio</sp:has_name>
@@ -97,7 +97,7 @@
     <sp:has_name>New Idria Mercury Mine</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/New_Idria_Mercury_Mine_Polluted_Water.jpg"/>
-    <sp:has_review>The New Idria Mercury Mine encompasses 8,000 acres of land in the Diablo Mountain range, incorporating the town of Idria in San Benito County, California. Idria, initially named New Idria, is situated at 36掳25鈥�01鈥砃 120掳40鈥�24鈥砏 and 2440 feet (680m) above mean sea level.</sp:has_review>
+    <sp:has_review>The New Idria Mercury Mine encompasses 8,000 acres of land in the Diablo Mountain range, incorporating the town of Idria in San Benito County, California. Idria, initially named New Idria, is situated at 36°25′01″N 120°40′24″W and 2440 feet (680m) above mean sea level.</sp:has_review>
     <sp:located_in>San Benito County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Uptown_(Pittsburgh)">
@@ -111,19 +111,19 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Statue_of_Liberty">
     <sp:has_name>Statue of Liberty</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_Liberty_7.jpg"/>
-    <sp:has_review>The Statue of Liberty (Liberty Enlightening the World; French: La Libert茅 茅clairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, designed by Fr茅d茅ric Auguste Bartholdi, a French sculptor, was built by Gustave Eiffel and dedicated on October 28, 1886. It was a gift to the United States from the people of France.</sp:has_review>
+    <sp:has_review>The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, designed by Frédéric Auguste Bartholdi, a French sculptor, was built by Gustave Eiffel and dedicated on October 28, 1886. It was a gift to the United States from the people of France.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Calaveritas,_California">
     <sp:has_name>Calaveritas, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Calaveritas (\little skulls\ in Spanish; formerly, Upper Calaveritas) is an unincorporated community in Calaveras County, California. It sits on the banks of the Calaveritas Creek at an elevation of 1,109 feet (338 m) above sea level and is located at 38掳09鈥�29鈥砃 120掳36鈥�36鈥砏.</sp:has_review>
+    <sp:has_review>Calaveritas (\little skulls\ in Spanish; formerly, Upper Calaveritas) is an unincorporated community in Calaveras County, California. It sits on the banks of the Calaveritas Creek at an elevation of 1,109 feet (338 m) above sea level and is located at 38°09′29″N 120°36′36″W.</sp:has_review>
     <sp:located_in>Calaveras County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Glacier_National_Park_(U.S.)">
     <sp:has_name>Glacier National Park (U.S.)</sp:has_name>
     <sp:located_in>Columbia Falls, Montana</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mountain_Goat_USFWS.jpg"/>
-    <sp:has_review>Glacier National Park is a national park located in the U.S. state of Montana, on the Canada鈥揢nited States border with the Canadian provinces of Alberta and British Columbia. The park encompasses over 1 million acres (4,000 km2) and includes parts of two mountain ranges (sub-ranges of the Rocky Mountains), over 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals.</sp:has_review>
+    <sp:has_review>Glacier National Park is a national park located in the U.S. state of Montana, on the Canada-United States border with the Canadian provinces of Alberta and British Columbia. The park encompasses over 1 million acres (4,000 km2) and includes parts of two mountain ranges (sub-ranges of the Rocky Mountains), over 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Mountain_Ranch,_California">
     <sp:has_name>Mountain Ranch, California</sp:has_name>
@@ -135,13 +135,13 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Glencoe,_California">
     <sp:has_name>Glencoe, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Glencoe (formerly, Mosquito and Mosquito Gulch) is an unincorporated community in Calaveras County, California. It lies at an elevation of 2749 feet (838 m) and is located at 38掳21鈥�15鈥砃 120掳35鈥�06鈥砏. The community is in ZIP code 95232 and area code 209.Glencoe was formerly called Mosquito Gulch. The business portion of the town was on the north side of Mosquito Gulch, but not one of the old buildings remains. The mines were first worked by Mexicans in the early 1850s.</sp:has_review>
+    <sp:has_review>Glencoe (formerly, Mosquito and Mosquito Gulch) is an unincorporated community in Calaveras County, California. It lies at an elevation of 2749 feet (838 m) and is located at 38°21′15″N 120°35′06″W. The community is in ZIP code 95232 and area code 209.Glencoe was formerly called Mosquito Gulch. The business portion of the town was on the north side of Mosquito Gulch, but not one of the old buildings remains. The mines were first worked by Mexicans in the early 1850s.</sp:has_review>
     <sp:located_in>Calaveras County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Sandy_Gulch,_California">
     <sp:has_name>Sandy Gulch, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Sandy Gulch is an unincorporated community in Calaveras County, California, just southwest of West Point on State Route 26. It lies at an elevation of 2592 feet (790 m) above sea level and is located at 38掳22鈥�49鈥砃 120掳31鈥�58鈥砏. The community is in ZIP code 95248 and area code 209.It was established in 1849 as a trading center for miners of the area.</sp:has_review>
+    <sp:has_review>Sandy Gulch is an unincorporated community in Calaveras County, California, just southwest of West Point on State Route 26. It lies at an elevation of 2592 feet (790 m) above sea level and is located at 38°22′49″N 120°31′58″W. The community is in ZIP code 95248 and area code 209.It was established in 1849 as a trading center for miners of the area.</sp:has_review>
     <sp:located_in>Calaveras County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Alderson's_Store">
@@ -229,7 +229,7 @@
     <sp:has_name>Foresthill, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Placer_County_California_Incorporated_and_Unincorporated_areas_Foresthill_Highlighted.svg"/>
-    <sp:has_review>Foresthill is a census-designated place (CDP) in Placer County, California, United States. It is part of the Sacramento鈥揂rden-Arcade鈥揜oseville Metropolitan Statistical Area. The population was 1,483 at the 2010 census, down from 1,791 at the 2000 census.</sp:has_review>
+    <sp:has_review>Foresthill is a census-designated place (CDP) in Placer County, California, United States. It is part of the Sacramento-Arden-Arcade-Roseville Metropolitan Statistical Area. The population was 1,483 at the 2010 census, down from 1,791 at the 2000 census.</sp:has_review>
     <sp:located_in>Placer County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Crater_Lake_National_Park">
@@ -238,10 +238,10 @@
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Crater_Lake_Panorama,_Aug_2013.jpg"/>
     <sp:has_review>Crater Lake National Park is a United States National Park located in southern Oregon. Established in 1902, Crater Lake National Park is the fifth oldest national park in the United States and the only national park in Oregon.</sp:has_review>
   </sp:Spot>
-  <sp:Spot rdf:about="http://dbpedia.org/resource/Berlin鈥揑chthyosaur_State_Park">
-    <sp:has_name>Berlin鈥揑chthyosaur State Park</sp:has_name>
+  <sp:Spot rdf:about="http://dbpedia.org/resource/Berlin-Ichthyosaur_State_Park">
+    <sp:has_name>Berlin-Ichthyosaur State Park</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tour_Guide_and_outside_wall_painting.jpg"/>
-    <sp:has_review>Berlin鈥揑chthyosaur State Park is a state park of Nevada, United States, preserving several undisturbed ichthyosaur fossils of the species Shonisaurus popularis, as well as the early-20th-century ghost town of Berlin.  The 1,540-acre (620 ha) park is located 23 miles (37 km) east of Gabbs in far northwestern Nye County, approximately 150 miles (240 km) east of Reno.</sp:has_review>
+    <sp:has_review>Berlin-Ichthyosaur State Park is a state park of Nevada, United States, preserving several undisturbed ichthyosaur fossils of the species Shonisaurus popularis, as well as the early-20th-century ghost town of Berlin.  The 1,540-acre (620 ha) park is located 23 miles (37 km) east of Gabbs in far northwestern Nye County, approximately 150 miles (240 km) east of Reno.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Kenai_Fjords_National_Park">
     <sp:has_name>Kenai Fjords National Park</sp:has_name>
@@ -277,7 +277,7 @@
     <sp:has_review>Jewel Cave National Monument contains Jewel Cave, currently the third longest cave in the world, with 179 miles (288 kilometers) of mapped passageways. It is located approximately 13 mi (21 km) west of the town of Custer in South Dakota's Black Hills. It became a national monument in 1908.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Mount_Vernon,_Baltimore">
-    <sp:has_name>Mount Vernon,Baltimore</sp:has_name>
+    <sp:has_name>Mount Vernon, BaltimoreMount Vernon, Baltimore</sp:has_name>
     <sp:located_in>Baltimore</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/WashingtonMonumentView.jpg"/>
     <sp:has_review>Mount Vernon is a neighborhood located just to the north of downtown Baltimore, Maryland.  Designated a National Landmark Historic District and a city Cultural District, it is one of the city's oldest neighborhoods and originally was home to the city's most wealthy and fashionable families.</sp:has_review>
@@ -286,7 +286,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Jenny_Lind,_California">
     <sp:has_name>Jenny Lind, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Jenny Lind is an unincorporated community in Calaveras County, California. It lies at an elevation of 253 feet (77 m) and is located at 38掳6鈥睳 120掳52鈥瞁. The community is in ZIP code 95252 and area code 209.Located on the north bank of the Calaveras River, Jenny Lind was a placer mining town as early as 1849. Most of the placer mining was done along the hillsides above the river; later the river was mined with dredgers. In 1864 the population was said to be 400, half of them Chinese.</sp:has_review>
+    <sp:has_review>Jenny Lind is an unincorporated community in Calaveras County, California. It lies at an elevation of 253 feet (77 m) and is located at 38°6′N 120°52′W. The community is in ZIP code 95252 and area code 209.Located on the north bank of the Calaveras River, Jenny Lind was a placer mining town as early as 1849. Most of the placer mining was done along the hillsides above the river; later the river was mined with dredgers. In 1864 the population was said to be 400, half of them Chinese.</sp:has_review>
     <sp:located_in>Calaveras County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Sutterville,_California">
@@ -311,8 +311,8 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Hawai?i_Volcanoes_National_Park">
     <sp:has_name>Hawai?i Volcanoes National Park</sp:has_name>
     <sp:located_in>Hilo, Hawaii</sp:located_in>
-    <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/P膩hoehoe_and_Aa_flows_at_Hawaii.jpg"/>
-    <sp:has_review>Hawai?i Volcanoes National Park, established in 1916, is a United States National Park located in the U.S. State of Hawaii on the island of Hawaii. It encompasses two active volcanoes: K墨lauea, one of the world's most active volcanoes, and Mauna Loa, the world's most massive subaerial volcano. The park gives scientists insight into the birth of the Hawaiian Islands and ongoing studies into the processes of vulcanism.</sp:has_review>
+    <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pāhoehoe_and_Aa_flows_at_Hawaii.jpg"/>
+    <sp:has_review>Hawai?i Volcanoes National Park, established in 1916, is a United States National Park located in the U.S. State of Hawaii on the island of Hawaii. It encompasses two active volcanoes: Kīlauea, one of the world's most active volcanoes, and Mauna Loa, the world's most massive subaerial volcano. The park gives scientists insight into the birth of the Hawaiian Islands and ongoing studies into the processes of vulcanism.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Dana_Point,_California">
     <sp:has_name>Dana Point, California</sp:has_name>
@@ -387,7 +387,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Paloma,_California">
     <sp:has_name>Paloma, California</sp:has_name>
     <sp:located_in>Calaveras County, California</sp:located_in>
-    <sp:has_review>Paloma (Spanish for \dove\; formerly, Fosteria and Frenchman's Ranch) is an unincorporated community in Calaveras County, California. It lies at an elevation of 1362 feet (415 m) and is located at 38掳15鈥�34鈥砃 120掳45鈥�48鈥砏. The community is in ZIP code 95252 and area code 209.Gwin Mine, Paloma, and Lower Rich Gulch were mined for placer gold in 1849, and quartz was discovered by J. Alexander in 1851. Property here was acquired by William M. Gwin, California's first U.S. Senator, in 1851.</sp:has_review>
+    <sp:has_review>Paloma (Spanish for \dove\; formerly, Fosteria and Frenchman's Ranch) is an unincorporated community in Calaveras County, California. It lies at an elevation of 1362 feet (415 m) and is located at 38°15′34″N 120°45′48″W. The community is in ZIP code 95252 and area code 209.Gwin Mine, Paloma, and Lower Rich Gulch were mined for placer gold in 1849, and quartz was discovered by J. Alexander in 1851. Property here was acquired by William M. Gwin, California's first U.S. Senator, in 1851.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Connecticut's_Historic_Gardens">
@@ -398,7 +398,7 @@
     <sp:has_name>La Grange, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/La_Grange_Stage_Stop_2.jpg"/>
-    <sp:has_review>La Grange is a small unincorporated community in rural Stanislaus County, California, United States.  Its altitude is 249 feet (76 m). As of 2008 it has a population of 345. It is located at 37掳39鈥�49鈥砃 120掳27鈥�49鈥砏 (37.6635433, -120.4635289) along the Tuolumne River, and is near the La Grange Dam and the New Don Pedro Dam.</sp:has_review>
+    <sp:has_review>La Grange is a small unincorporated community in rural Stanislaus County, California, United States.  Its altitude is 249 feet (76 m). As of 2008 it has a population of 345. It is located at 37°39′49″N 120°27′49″W (37.6635433, -120.4635289) along the Tuolumne River, and is near the La Grange Dam and the New Don Pedro Dam.</sp:has_review>
     <sp:located_in>Stanislaus County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Pinnacles_National_Park">
@@ -485,7 +485,7 @@
     <sp:has_name>Ghost Ranch</sp:has_name>
     <sp:located_in>New Mexico</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ghost_Ranch_redrock_cliffs.jpg"/>
-    <sp:has_review>Ghost Ranch is a 21,000-acre (85 km2) retreat and education center located close to the village of Abiqui煤 in Rio Arriba County in north central New Mexico, United States.  The conference center and lodgings at Ghost Ranch are run by the Presbyterian Church (U.S.A.) but open to the general public.</sp:has_review>
+    <sp:has_review>Ghost Ranch is a 21,000-acre (85 km2) retreat and education center located close to the village of Abiquiú in Rio Arriba County in north central New Mexico, United States.  The conference center and lodgings at Ghost Ranch are run by the Presbyterian Church (U.S.A.) but open to the general public.</sp:has_review>
     <sp:located_in>Rio Arriba County, New Mexico</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Guernsey_State_Park">
@@ -510,7 +510,7 @@
     <sp:has_name>National Park of American Samoa</sp:has_name>
     <sp:located_in>Pago Pago</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LocationAmericanSamoa.png"/>
-    <sp:has_review>The National Park of American Samoa is a national park in the American Territory of American Samoa, distributed across three separate islands: Tutuila, Ofu, and Ta鈥樑�. The park preserves and protects coral reefs, tropical rainforests, fruit bats, and the Samoan culture. It is popular for hiking and snorkeling. Of the park's 13,500 acres (5,500 ha), 9,000 acres (3,600 ha) is land and 4,500 acres (1,800 ha) is coral reefs and ocean. It is the only American national park south of the Equator.</sp:has_review>
+    <sp:has_review>The National Park of American Samoa is a national park in the American Territory of American Samoa, distributed across three separate islands: Tutuila, Ofu, and Ta‘ū. The park preserves and protects coral reefs, tropical rainforests, fruit bats, and the Samoan culture. It is popular for hiking and snorkeling. Of the park's 13,500 acres (5,500 ha), 9,000 acres (3,600 ha) is land and 4,500 acres (1,800 ha) is coral reefs and ocean. It is the only American national park south of the Equator.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Schomburg_Center_for_Research_in_Black_Culture">
     <sp:has_name>Schomburg Center for Research in Black Culture</sp:has_name>
@@ -545,7 +545,7 @@
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/GreenXC">
     <sp:has_name>GreenXC</sp:has_name>
-    <sp:has_review>GreenXC, established in 2011, is an organization that works to raise awareness for National Parks, National Forests and the National Park Foundation, the official charity of America鈥檚 nearly 400 national parks. It focuses on the youth and reaches out to connect them to the parks and forests in order to ensure the parks are supported for the next generation of taxpayers.</sp:has_review>
+    <sp:has_review>GreenXC, established in 2011, is an organization that works to raise awareness for National Parks, National Forests and the National Park Foundation, the official charity of America’s nearly 400 national parks. It focuses on the youth and reaches out to connect them to the parks and forests in order to ensure the parks are supported for the next generation of taxpayers.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Fairbank,_Arizona">
     <sp:has_name>Fairbank, Arizona</sp:has_name>
@@ -587,19 +587,19 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Grand_Canyon">
     <sp:has_name>Grand Canyon</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grand_canyon_hermits_rest_2010.JPG"/>
-    <sp:has_review>The Grand Canyon (Hopi: Ongtupqa; Yavapai: Wi:ka?i:la, Spanish: Gran Ca?贸n) is a steep-sided canyon carved by the Colorado River in the state of Arizona in the United States. It is contained within and managed by Grand Canyon National Park, the Kaibab National Forest, Grand Canyon-Parashant National Monument, the Hualapai Tribal Nation, the Havasupai people and the Navajo Nation.</sp:has_review>
+    <sp:has_review>The Grand Canyon (Hopi: Ongtupqa; Yavapai: Wi:ka?i:la, Spanish: Gran Ca?ón) is a steep-sided canyon carved by the Colorado River in the state of Arizona in the United States. It is contained within and managed by Grand Canyon National Park, the Kaibab National Forest, Grand Canyon-Parashant National Monument, the Hualapai Tribal Nation, the Havasupai people and the Navajo Nation.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Altaville,_California">
     <sp:has_name>Altaville, California</sp:has_name>
     <sp:located_in>Calaveras County, California</sp:located_in>
-    <sp:has_review>Altaville (formerly, Cherokee Flat, Forks-of-the Road, Low Divide, and Winterton) is a former unincorporated community in Calaveras County, California, now located in the northwest portion of the city of Angels Camp. It sits at an elevation of 1,542 feet (470 m) above sea level and is located at 38掳05鈥�02鈥砃 120掳33鈥�43鈥砏, at the intersections of SR 49 and SR 4. The community is in ZIP code 95221 and area code 209.The town was established in 1852 on Cherokee Creek.</sp:has_review>
+    <sp:has_review>Altaville (formerly, Cherokee Flat, Forks-of-the Road, Low Divide, and Winterton) is a former unincorporated community in Calaveras County, California, now located in the northwest portion of the city of Angels Camp. It sits at an elevation of 1,542 feet (470 m) above sea level and is located at 38°05′02″N 120°33′43″W, at the intersections of SR 49 and SR 4. The community is in ZIP code 95221 and area code 209.The town was established in 1852 on Cherokee Creek.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Capitol_Reef_National_Park">
     <sp:has_name>Capitol Reef National Park</sp:has_name>
     <sp:located_in>Torrey, Utah</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Cassidy_Arch,_Capitol_Reef_National_Park.JPG"/>
-    <sp:has_review>Capitol Reef National Park is a United States National Park, in south-central Utah. The park is approximately 60 miles (97 km) long on its north鈥搒outh axis but an average of just 6 miles (9.7 km) wide.</sp:has_review>
+    <sp:has_review>Capitol Reef National Park is a United States National Park, in south-central Utah. The park is approximately 60 miles (97 km) long on its north-south axis but an average of just 6 miles (9.7 km) wide.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Itasca_State_Park">
     <sp:has_name>Itasca State Park</sp:has_name>
@@ -639,12 +639,12 @@
     <sp:has_name>Saguaro National Park</sp:has_name>
     <sp:located_in>Tucson, Arizona</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/A018,_Saguaro_National_Park,_Arizona,_USA,_2001.jpg"/>
-    <sp:has_review>Saguaro National Park is located in southern Arizona on the outskirts of Tucson and is a part of the United States National Park System. The park preserves the desert landscape, fauna and flora contained within two park sections, one east and the other west of Tucson. The park was established to protect its namesake鈥攖he giant saguaro cactus (Carnegiea gigantea). Saguaro in this park are near the northernmost limit of their natural survival zone within the Sonoran Desert.</sp:has_review>
+    <sp:has_review>Saguaro National Park is located in southern Arizona on the outskirts of Tucson and is a part of the United States National Park System. The park preserves the desert landscape, fauna and flora contained within two park sections, one east and the other west of Tucson. The park was established to protect its namesake—the giant saguaro cactus (Carnegiea gigantea). Saguaro in this park are near the northernmost limit of their natural survival zone within the Sonoran Desert.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/French_Quarter">
     <sp:has_name>French Quarter</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/ChrisLitherlandFrenchQuarter2011.jpg"/>
-    <sp:has_review>The French Quarter, also known as the Vieux Carr茅, is the oldest neighborhood in the city of New Orleans. After New Orleans (La Nouvelle-Orl茅ans in French) was founded in 1718 by Jean-Baptiste Le Moyne de Bienville, the city developed around the Vieux Carr茅 (\Old Square\ in English), a central square. The district is more commonly called the French Quarter today, or simply \The Quarter,\ related to changes in the city with American immigration after the Louisiana Purchase.</sp:has_review>
+    <sp:has_review>The French Quarter, also known as the Vieux Carré, is the oldest neighborhood in the city of New Orleans. After New Orleans (La Nouvelle-Orléans in French) was founded in 1718 by Jean-Baptiste Le Moyne de Bienville, the city developed around the Vieux Carré (\Old Square\ in English), a central square. The district is more commonly called the French Quarter today, or simply \The Quarter,\ related to changes in the city with American immigration after the Louisiana Purchase.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Zion_National_Park">
     <sp:has_name>Zion National Park</sp:has_name>
@@ -658,7 +658,7 @@
     <sp:has_name>Fort Benton, Montana</sp:has_name>
     <sp:located_in>Chouteau County, Montana</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Choteau_County_Courthouse.JPG"/>
-    <sp:has_review>Fort Benton is a city in and the county seat of Chouteau County, Montana, United States.  A portion of the city was designated as a National Historic Landmark District in 1961.  Established in 1846, a full generation beforethe U.S. Civil War, Fort Benton is one of the oldest settlements in the American West; in contrast many other places鈥攊ncluding large cities today鈥攚ere settled in thelate 1860s, 1870s, or 1880s.The population was 1,464 at the 2010 census.</sp:has_review>
+    <sp:has_review>Fort Benton is a city in and the county seat of Chouteau County, Montana, United States.  A portion of the city was designated as a National Historic Landmark District in 1961.  Established in 1846, a full generation beforethe U.S. Civil War, Fort Benton is one of the oldest settlements in the American West; in contrast many other places—including large cities today—were settled in thelate 1860s, 1870s, or 1880s.The population was 1,464 at the 2010 census.</sp:has_review>
     <sp:located_in>Montana</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Ybor_City">
@@ -678,7 +678,7 @@
     <sp:has_name>Treasure Island, San Francisco</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wfm_yerba_buena_treasure_islands_usgs.jpg"/>
-    <sp:has_review>Treasure Island is an artificial island in San Francisco Bay and a neighborhood of the City of San Francisco. Built 1936鈥�37 for the 1939 Golden Gate International Exposition, the island's World鈥檚 Fair site is a California Historical Landmark. Buildings there have been listed on the NRHP, and the island's historical naval station and auxiliary air facility (for airships, blimps, dirigibles, planes and seaplanes) are designated in the Geographic Names Information System.</sp:has_review>
+    <sp:has_review>Treasure Island is an artificial island in San Francisco Bay and a neighborhood of the City of San Francisco. Built 1936-37 for the 1939 Golden Gate International Exposition, the island's World’s Fair site is a California Historical Landmark. Buildings there have been listed on the NRHP, and the island's historical naval station and auxiliary air facility (for airships, blimps, dirigibles, planes and seaplanes) are designated in the Geographic Names Information System.</sp:has_review>
     <sp:located_in>San Francisco</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Guadalupe_Mountains_National_Park">
@@ -708,11 +708,11 @@
     <sp:has_review>Julian is a census-designated place (CDP) in San Diego County, California, in the United States.  As of the 2010 census, the population was 1,502, down from 1,621 at the 2000 census.Julian is an official California Historical Landmark (No. 412). Also, the Julian townsite and surrounding area is defined by the San Diego County Zoning Ordinance Section 5749 as the Julian Historic District.</sp:has_review>
     <sp:located_in>San Diego County, California</sp:located_in>
   </sp:Spot>
-  <sp:Spot rdf:about="http://dbpedia.org/resource/Haleakal膩_National_Park">
-    <sp:has_name>Haleakal膩 National Park</sp:has_name>
+  <sp:Spot rdf:about="http://dbpedia.org/resource/Haleakalā_National_Park">
+    <sp:has_name>Haleakalā National Park</sp:has_name>
     <sp:located_in>Pukalani, Hawaii</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Early_morning_(6843184138).jpg"/>
-    <sp:has_review>Haleakal膩 National Park is a national park located on the island of Maui in the U.S. state of Hawai?i. The park covers an area of 33,265 acres (134.62 km2), of which 19,270 acres (77.98 km2) is a wilderness area.</sp:has_review>
+    <sp:has_review>Haleakalā National Park is a national park located on the island of Maui in the U.S. state of Hawai?i. The park covers an area of 33,265 acres (134.62 km2), of which 19,270 acres (77.98 km2) is a wilderness area.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Bidwell's_Bar,_California">
     <sp:has_name>Bidwell's Bar, California</sp:has_name>
@@ -729,7 +729,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Fort_McHenry">
     <sp:has_name>Fort McHenry</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fort_McHenry2.JPG"/>
-    <sp:has_review>Fort McHenry, in Baltimore, Maryland, is a historical American coastal star-shaped fort best known for its role in the War of 1812, when it successfully defended Baltimore Harbor from an attack by the British navy in Chesapeake Bay September 13鈥�14, 1813.  It was first built in 1798 and was used continuously by U.S. armed forces through World War I and by the Coast Guard in World War II.</sp:has_review>
+    <sp:has_review>Fort McHenry, in Baltimore, Maryland, is a historical American coastal star-shaped fort best known for its role in the War of 1812, when it successfully defended Baltimore Harbor from an attack by the British navy in Chesapeake Bay September 13-14, 1813.  It was first built in 1798 and was used continuously by U.S. armed forces through World War I and by the Coast Guard in World War II.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Nantucket">
     <sp:has_name>Nantucket</sp:has_name>
@@ -761,20 +761,20 @@
     <sp:has_name>Joshua Tree National Park</sp:has_name>
     <sp:located_in>Twentynine Palms, California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Joshua_Tree_-_Cyclops_+_Potato_Head_-_Sunrise.jpg"/>
-    <sp:has_review>Joshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act (Public Law 103-433), it had previously been a U.S. National Monument since 1936. It is named for the Joshua trees (Yucca brevifolia) native to the park. It covers a land area of 790,636 acres (1,235.37 sq mi; 3,199.59 km2) 鈥� an area slightly larger than the state of Rhode Island.</sp:has_review>
+    <sp:has_review>Joshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act (Public Law 103-433), it had previously been a U.S. National Monument since 1936. It is named for the Joshua trees (Yucca brevifolia) native to the park. It covers a land area of 790,636 acres (1,235.37 sq mi; 3,199.59 km2) - an area slightly larger than the state of Rhode Island.</sp:has_review>
     <sp:located_in>San Bernardino, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Badlands_National_Park">
     <sp:has_name>Badlands National Park</sp:has_name>
     <sp:located_in>Wall, South Dakota</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/BadlandsView3.jpg"/>
-    <sp:has_review>Badlands National Park (Lakota: Mak?贸?i?a) is a national park in southwestern South Dakota that protects 242,756 acres (379.306 sq mi; 98,240 ha) of sharply eroded buttes, pinnacles, and spires blended with the largest undisturbed mixed grass prairie in the United States.</sp:has_review>
+    <sp:has_review>Badlands National Park (Lakota: Mak?ó?i?a) is a national park in southwestern South Dakota that protects 242,756 acres (379.306 sq mi; 98,240 ha) of sharply eroded buttes, pinnacles, and spires blended with the largest undisturbed mixed grass prairie in the United States.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Virginia_City,_Nevada">
     <sp:has_name>Virginia City, Nevada</sp:has_name>
     <sp:located_in>Nevada</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Virginia_City_from_Mason's_cemetery,_22_May,_2010.JPG"/>
-    <sp:has_review>Virginia City is a census-designated place (CDP) that is the county seat of Storey County, Nevada. It is part of the Reno鈥揝parks Metropolitan Statistical Area.Virginia City sprang up as a boomtown with the 1859 discovery of the Comstock Lode, the first major silver deposit discovery in the United States, and numerous mines were opened. At the city's peak of population in the mid-1870s, it had an estimated 25,000 residents. The mines' output declined after 1878, and the city declined.</sp:has_review>
+    <sp:has_review>Virginia City is a census-designated place (CDP) that is the county seat of Storey County, Nevada. It is part of the Reno-Sparks Metropolitan Statistical Area.Virginia City sprang up as a boomtown with the 1859 discovery of the Comstock Lode, the first major silver deposit discovery in the United States, and numerous mines were opened. At the city's peak of population in the mid-1870s, it had an estimated 25,000 residents. The mines' output declined after 1878, and the city declined.</sp:has_review>
     <sp:located_in>Storey County, Nevada</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Timbuctoo,_California">
@@ -861,7 +861,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Fourth_Crossing,_California">
     <sp:has_name>Fourth Crossing, California</sp:has_name>
     <sp:located_in>Calaveras County, California</sp:located_in>
-    <sp:has_review>Fourth Crossing (formerly, Foremans) is an unincorporated community in Calaveras County, California. It lies at an elevation of 922 feet (281 m) and is located on State Route 49 at 38掳07鈥�53鈥砃 120掳38鈥�05鈥砏. The community is in ZIP code 95248 and area code 209.Located on San Antonio Creek, the town was originally named Foremans, after its founder David Foreman, but became known as Fourth Crossing, as it was located at the fourth river crossing on the Stockton鈥揗urphys Road.</sp:has_review>
+    <sp:has_review>Fourth Crossing (formerly, Foremans) is an unincorporated community in Calaveras County, California. It lies at an elevation of 922 feet (281 m) and is located on State Route 49 at 38°07′53″N 120°38′05″W. The community is in ZIP code 95248 and area code 209.Located on San Antonio Creek, the town was originally named Foremans, after its founder David Foreman, but became known as Fourth Crossing, as it was located at the fourth river crossing on the Stockton-Murphys Road.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Arrowhead_Springs,_San_Bernardino,_California">
@@ -918,7 +918,7 @@
     <sp:has_name>Fort Mason (Texas)</sp:has_name>
     <sp:located_in>Mason County, Texas</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fort_Mason_4.jpg"/>
-    <sp:has_review>Fort Mason was established on July 6, 1851, in present-day Mason County, Texas. It was named in honor of George Thomson Mason, a United States Army second lieutenant killed in the Thornton Affair during the Mexican鈥揂merican War near Brownsville, April 25, 1846. At various times from 1856 to 1861, this was the home fort for Albert Sidney Johnston, George H. Thomas, Earl Van Dorn, and Robert E. Lee.</sp:has_review>
+    <sp:has_review>Fort Mason was established on July 6, 1851, in present-day Mason County, Texas. It was named in honor of George Thomson Mason, a United States Army second lieutenant killed in the Thornton Affair during the Mexican-American War near Brownsville, April 25, 1846. At various times from 1856 to 1861, this was the home fort for Albert Sidney Johnston, George H. Thomas, Earl Van Dorn, and Robert E. Lee.</sp:has_review>
     <sp:located_in>Texas</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Cape_Cod_National_Seashore">
@@ -942,7 +942,7 @@
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Moss_Island">
     <sp:has_name>Moss Island</sp:has_name>
-    <sp:has_review>Moss Island is an island in Little Falls, New York, located between the Mohawk River and the New York State Barge Canal. It is composed of an igneous intrusion of syenite, and became an island when canal locks were built so boats could avoid the 40-foot (12 m) falls. It is known for its large 40鈥�50-foot (12鈥�15 m) deep potholes as well as being popular with local rock climbers. It was declared a National Natural Landmark in 1976.</sp:has_review>
+    <sp:has_review>Moss Island is an island in Little Falls, New York, located between the Mohawk River and the New York State Barge Canal. It is composed of an igneous intrusion of syenite, and became an island when canal locks were built so boats could avoid the 40-foot (12 m) falls. It is known for its large 40-50-foot (12-15 m) deep potholes as well as being popular with local rock climbers. It was declared a National Natural Landmark in 1976.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Eddyville,_Kentucky">
     <sp:has_name>Eddyville, Kentucky</sp:has_name>
@@ -959,7 +959,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Valley_Forge">
     <sp:has_name>Valley Forge</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Washington_and_Lafayette_at_Valley_Forge.jpg"/>
-    <sp:has_review>Valley Forge was the military camp in southeastern Pennsylvania, approximately 20 miles (30 km) northwest of Philadelphia, where the American Continental Army spent the winter of 1777鈥�1778 during the American Revolutionary War. Starvation, disease, malnutrition, and exposure killed over 2,500 American soldiers by the end of February 1778.With winter almost setting in, and with the prospects for campaigning greatly diminishing, General George Washington sought quarters for his men.</sp:has_review>
+    <sp:has_review>Valley Forge was the military camp in southeastern Pennsylvania, approximately 20 miles (30 km) northwest of Philadelphia, where the American Continental Army spent the winter of 1777-1778 during the American Revolutionary War. Starvation, disease, malnutrition, and exposure killed over 2,500 American soldiers by the end of February 1778.With winter almost setting in, and with the prospects for campaigning greatly diminishing, General George Washington sought quarters for his men.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Virgin_Islands_National_Park">
     <sp:has_name>Virgin Islands National Park</sp:has_name>
@@ -976,7 +976,7 @@
     <sp:has_name>Inner Harbor</sp:has_name>
     <sp:located_in>Baltimore</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Inner_Harbor_from_the_Baltimore_Aquarium.jpg"/>
-    <sp:has_review>The Inner Harbor is a historic seaport, tourist attraction, and landmark of the city of Baltimore, Maryland, USA. It was described by the Urban Land Institute in 2009 as 鈥渢he model for post-industrial waterfront redevelopment around the world.鈥� The Inner Harbor is located at the mouth of Jones Falls, creating the wide and short northwest branch of the Patapsco River.</sp:has_review>
+    <sp:has_review>The Inner Harbor is a historic seaport, tourist attraction, and landmark of the city of Baltimore, Maryland, USA. It was described by the Urban Land Institute in 2009 as “the model for post-industrial waterfront redevelopment around the world.” The Inner Harbor is located at the mouth of Jones Falls, creating the wide and short northwest branch of the Patapsco River.</sp:has_review>
     <sp:located_in>Maryland</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Muleshoe_National_Wildlife_Refuge">
@@ -1036,13 +1036,13 @@
     <sp:has_name>Cotati, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Photo-CA-cotati.jpg"/>
-    <sp:has_review>Cotati /ko??t蓱?ti?/ is an incorporated city in Sonoma County, California, U.S., located about 45 mi (70 km) north of San Francisco in the 101 corridor between Rohnert Park and Petaluma.Cotati's population as of the 2010 Census was 7,265, making it the smallest incorporated community in Sonoma County.Like all of Sonoma County, Cotati is included in both the San Francisco Bay Area and the Redwood Empire. Located in the Sonoma Coast AVA, Cotati can also be considered part of the Wine Country.</sp:has_review>
+    <sp:has_review>Cotati /ko??tɑ?ti?/ is an incorporated city in Sonoma County, California, U.S., located about 45 mi (70 km) north of San Francisco in the 101 corridor between Rohnert Park and Petaluma.Cotati's population as of the 2010 Census was 7,265, making it the smallest incorporated community in Sonoma County.Like all of Sonoma County, Cotati is included in both the San Francisco Bay Area and the Redwood Empire. Located in the Sonoma Coast AVA, Cotati can also be considered part of the Wine Country.</sp:has_review>
     <sp:located_in>Sonoma County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Campo_Seco,_California">
     <sp:has_name>Campo Seco, California</sp:has_name>
     <sp:located_in>Calaveras County, California</sp:located_in>
-    <sp:has_review>Campo Seco (\dry camp\ in Spanish) is an unincorporated community in Calaveras County, California. It sits an elevation of 564 feet (172 m) above sea level and is located at 38掳13鈥�38鈥砃 120掳51鈥�12鈥砏. The community is in ZIP code 95226 and area code 209.Founded by Mexicans in 1849, the mining camp was quite cosmopolitan, with forty different nationalities of miners. The town was almost destroyed by a fire in 1854, but as the placers were still producing, much of the town was rebuilt.</sp:has_review>
+    <sp:has_review>Campo Seco (\dry camp\ in Spanish) is an unincorporated community in Calaveras County, California. It sits an elevation of 564 feet (172 m) above sea level and is located at 38°13′38″N 120°51′12″W. The community is in ZIP code 95226 and area code 209.Founded by Mexicans in 1849, the mining camp was quite cosmopolitan, with forty different nationalities of miners. The town was almost destroyed by a fire in 1854, but as the placers were still producing, much of the town was rebuilt.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Searles_Lake">
@@ -1066,7 +1066,7 @@
     <sp:has_name>Chelsea, Manhattan</sp:has_name>
     <sp:located_in>Manhattan</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea1217.JPG"/>
-    <sp:has_review>Chelsea is a neighborhood  on the West Side of the borough of Manhattan in New York City. The district's boundaries are roughly 14th Street to the south, 30th Street to the north, the western boundary of the Ladies' Mile Historic District 鈥� which lies between the Avenue of the Americas (Sixth Avenue) and Seventh Avenue 鈥� to the east, and the Hudson River and West Street to the west.</sp:has_review>
+    <sp:has_review>Chelsea is a neighborhood  on the West Side of the borough of Manhattan in New York City. The district's boundaries are roughly 14th Street to the south, 30th Street to the north, the western boundary of the Ladies' Mile Historic District - which lies between the Avenue of the Americas (Sixth Avenue) and Seventh Avenue - to the east, and the Hudson River and West Street to the west.</sp:has_review>
     <sp:located_in>New York</sp:located_in>
     <sp:located_in>New York City</sp:located_in>
   </sp:Spot>
@@ -1105,7 +1105,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Wounded_Knee,_South_Dakota">
     <sp:has_name>Wounded Knee, South Dakota</sp:has_name>
     <sp:located_in>Oglala Lakota County, South Dakota</sp:located_in>
-    <sp:has_review>Wounded Knee (Lakota: ?a?kp茅 Op铆) is a census-designated place (CDP) in Oglala Lakota County, South Dakota, United States. The population was 382 at the 2010 census.The town is named for the Wounded Knee Creek which runs through the region. The bones and heart of the Sioux chief Crazy Horse were reputedly buried along this creek by his family following his death in 1877.  The town lies within the Pine Ridge Reservation, territory of the Oglala Lakota (Sioux).</sp:has_review>
+    <sp:has_review>Wounded Knee (Lakota: ?a?kpé Opí) is a census-designated place (CDP) in Oglala Lakota County, South Dakota, United States. The population was 382 at the 2010 census.The town is named for the Wounded Knee Creek which runs through the region. The bones and heart of the Sioux chief Crazy Horse were reputedly buried along this creek by his family following his death in 1877.  The town lies within the Pine Ridge Reservation, territory of the Oglala Lakota (Sioux).</sp:has_review>
     <sp:located_in>South Dakota</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Chimney_Rock_State_Park">
@@ -1126,7 +1126,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Milton,_California">
     <sp:has_name>Milton, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Milton is an unincorporated community in Calaveras County, California. It lies at an elevation of 394 feet (120 m) and is located at 38掳01鈥�55鈥砃 120掳51鈥�08鈥砏. The community is in ZIP code 95684 and area code 209.Completion of the Southern Pacific Railroad in 1871 marked the birth of the town of Milton. Named after Milton Latham, one of the railroad construction engineers, this town was the first in Calaveras County to have a railroad.</sp:has_review>
+    <sp:has_review>Milton is an unincorporated community in Calaveras County, California. It lies at an elevation of 394 feet (120 m) and is located at 38°01′55″N 120°51′08″W. The community is in ZIP code 95684 and area code 209.Completion of the Southern Pacific Railroad in 1871 marked the birth of the town of Milton. Named after Milton Latham, one of the railroad construction engineers, this town was the first in Calaveras County to have a railroad.</sp:has_review>
     <sp:located_in>Calaveras County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Hammocks_Beach_State_Park">
@@ -1157,11 +1157,11 @@
     <sp:has_review>Morris Ranch is a ghost town, located 8.5 miles (13.7 km) southwest of Fredericksburg in  Gillespie County, in the U.S. state of Texas. The area was begun as a thoroughbred horse ranch by New Yorker Francis Morris in 1856, and the town grew up around it. In 1962, the school district was merged with Fredericksburg Independent School District, and the Morris Ranch school ceased operations. The Morris Ranch school was designated a Recorded Texas Historic Landmark in 1980, Marker number 10086.</sp:has_review>
     <sp:located_in>Texas</sp:located_in>
   </sp:Spot>
-  <sp:Spot rdf:about="http://dbpedia.org/resource/San_Diego鈥揅oronado_Bridge">
-    <sp:has_name>San Diego鈥揅oronado Bridge</sp:has_name>
+  <sp:Spot rdf:about="http://dbpedia.org/resource/San_Diego-Coronado_Bridge">
+    <sp:has_name>San Diego-Coronado Bridge</sp:has_name>
     <sp:located_in>San Diego</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/San_Diego_Coronado_bridge01.JPEG"/>
-    <sp:has_review>The San Diego鈥揅oronado Bridge, locally referred to as the Coronado Bridge, is a \prestressed concrete/steel\ girder bridge, crossing over San Diego Bay in the United States, linking San Diego with Coronado, California.  The bridge is signed as part of State Route 75.</sp:has_review>
+    <sp:has_review>The San Diego-Coronado Bridge, locally referred to as the Coronado Bridge, is a \prestressed concrete/steel\ girder bridge, crossing over San Diego Bay in the United States, linking San Diego with Coronado, California.  The bridge is signed as part of State Route 75.</sp:has_review>
     <sp:located_in>Coronado, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Kings_Canyon_National_Park">
@@ -1204,11 +1204,11 @@
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Lake_Otsego_-_tree_lawn_(569771960).jpg"/>
     <sp:has_review>Otsego Lake is a 4,046-acre (16.37 km2) lake located in Otsego County, New York and is the source of the Susquehanna River. The Village of Cooperstown is located at the lake's southern end. Glimmerglass State Park is located on the lake's northeastern shore, and includes Hyde Hall, a large mansion constructed in 1817 that overlooks the lake.</sp:has_review>
   </sp:Spot>
-  <sp:Spot rdf:about="http://dbpedia.org/resource/Mike_O'Callaghan鈥揚at_Tillman_Memorial_Bridge">
-    <sp:has_name>Mike O'Callaghan鈥揚at Tillman Memorial Bridge</sp:has_name>
+  <sp:Spot rdf:about="http://dbpedia.org/resource/Mike_O'Callaghan-Pat_Tillman_Memorial_Bridge">
+    <sp:has_name>Mike O'Callaghan-Pat Tillman Memorial Bridge</sp:has_name>
     <sp:located_in>Lake Mead National Recreation Area</sp:located_in>
-    <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/MikeO'Callaghan鈥揚atTillmanMemorialBridge.jpg"/>
-    <sp:has_review>The Mike O'Callaghan鈥揚at Tillman Memorial Bridge is an arch bridge in the United States that spans the Colorado River between the states of Arizona and Nevada. The bridge is located within the Lake Mead National Recreation Area approximately 30 miles (48 km) southeast of Las Vegas, Nevada, and carries U.S. Route 93 over the Colorado River.</sp:has_review>
+    <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/MikeO'Callaghan-PatTillmanMemorialBridge.jpg"/>
+    <sp:has_review>The Mike O'Callaghan-Pat Tillman Memorial Bridge is an arch bridge in the United States that spans the Colorado River between the states of Arizona and Nevada. The bridge is located within the Lake Mead National Recreation Area approximately 30 miles (48 km) southeast of Las Vegas, Nevada, and carries U.S. Route 93 over the Colorado River.</sp:has_review>
     <sp:located_in>Mohave County, Arizona</sp:located_in>
     <sp:located_in>Clark County, Nevada</sp:located_in>
   </sp:Spot>
@@ -1261,12 +1261,12 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Yellowstone_National_Park">
     <sp:has_name>Yellowstone National Park</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/YellowstonefallJUN05.JPG"/>
-    <sp:has_review>Yellowstone National Park (Arapaho: Henihco'oo or H茅et铆hco'oo) is a national park located primarily in the U.S. state of Wyoming, although it also extends into Montana and Idaho. It was established by the U.S. Congress and signed into law by President Ulysses S. Grant on March 1, 1872. Yellowstone, the first National Park in the U.S.</sp:has_review>
+    <sp:has_review>Yellowstone National Park (Arapaho: Henihco'oo or Héetíhco'oo) is a national park located primarily in the U.S. state of Wyoming, although it also extends into Montana and Idaho. It was established by the U.S. Congress and signed into law by President Ulysses S. Grant on March 1, 1872. Yellowstone, the first National Park in the U.S.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Jesus_Maria,_California">
     <sp:has_name>Jesus Maria, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Jesus Maria is an unincorporated community in Calaveras County, California. It lies at an elevation of 1043 feet (318 m) and is located at 38掳17鈥�08鈥砃 120掳38鈥�51鈥砏. The community is in ZIP code 95222 and area code 209.The community, the center of a large placer mining section, was named for a Mexican who raised vegetables and melons for the miners. It was settled in the early 1850s with a large population of Mexicans, French, Chileans, and Italians.</sp:has_review>
+    <sp:has_review>Jesus Maria is an unincorporated community in Calaveras County, California. It lies at an elevation of 1043 feet (318 m) and is located at 38°17′08″N 120°38′51″W. The community is in ZIP code 95222 and area code 209.The community, the center of a large placer mining section, was named for a Mexican who raised vegetables and melons for the miners. It was settled in the early 1850s with a large population of Mexicans, French, Chileans, and Italians.</sp:has_review>
     <sp:located_in>Calaveras County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Anasazi_State_Park_Museum">
@@ -1278,7 +1278,7 @@
     <sp:has_name>Marshall, Michigan</sp:has_name>
     <sp:located_in>Calhoun County, Michigan</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Calhoun_County_Michigan_Incorporated_and_Unincorporated_areas_Marshall_Highlighted.svg"/>
-    <sp:has_review>Marshall is a city located in the U.S. state of Michigan. It is part of the Battle Creek, Michigan Metropolitan Statistical Area. The population was 7,088 at the 2010 census.  It is the county seat of Calhoun County.  The town operates a student exchange program with its sister city, K艒ka, Japan.Marshall is best known for its cross-section of 19th- and early 20th-century architecture.</sp:has_review>
+    <sp:has_review>Marshall is a city located in the U.S. state of Michigan. It is part of the Battle Creek, Michigan Metropolitan Statistical Area. The population was 7,088 at the 2010 census.  It is the county seat of Calhoun County.  The town operates a student exchange program with its sister city, Kōka, Japan.Marshall is best known for its cross-section of 19th- and early 20th-century architecture.</sp:has_review>
     <sp:located_in>Michigan</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Adirondack_Park">
@@ -1290,7 +1290,7 @@
     <sp:has_name>Canyon de Chelly National Monument</sp:has_name>
     <sp:located_in>Chinle, Arizona</sp:located_in>
     <sp:has_picture rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Canyon_de_Chelly,_Navajo.jpg"/>
-    <sp:has_review>Canyon de Chelly National Monument (/d???e?/ d?路sh膩鈥�) was established on April 1, 1931 as a unit of the National Park Service. It is located in northeastern Arizona within the boundaries of the Navajo Nation.  Reflecting one of the longest continuously inhabited landscapes of North America, it preserves ruins of the early indigenous tribes that lived in the area, including the Ancient Pueblo Peoples (also called Anasazi) and Navajo.</sp:has_review>
+    <sp:has_review>Canyon de Chelly National Monument (/d???e?/ d?·shā′) was established on April 1, 1931 as a unit of the National Park Service. It is located in northeastern Arizona within the boundaries of the Navajo Nation.  Reflecting one of the longest continuously inhabited landscapes of North America, it preserves ruins of the early indigenous tribes that lived in the area, including the Ancient Pueblo Peoples (also called Anasazi) and Navajo.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Palm_Valley,_Williamson_County,_Texas">
     <sp:has_name>Palm Valley, Williamson County, Texas</sp:has_name>
@@ -1308,7 +1308,7 @@
     <sp:has_name>Trinidad, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trinidad_California.jpg"/>
-    <sp:has_review>Trinidad (Chetco-Tolowa: tvm-sray-me鈥�; Karuk: 谩as uyaahitihirak; Yurok: Chuerew; Wiyot: Da'guchwayawik, \land is curved\) is a seaside city in Humboldt County, located on the Pacific Ocean 8 miles (13 km) north of the Arcata-Eureka Airport and 15 miles (24 km) north of the college town of Arcata.</sp:has_review>
+    <sp:has_review>Trinidad (Chetco-Tolowa: tvm-sray-me’; Karuk: áas uyaahitihirak; Yurok: Chuerew; Wiyot: Da'guchwayawik, \land is curved\) is a seaside city in Humboldt County, located on the Pacific Ocean 8 miles (13 km) north of the Arcata-Eureka Airport and 15 miles (24 km) north of the college town of Arcata.</sp:has_review>
     <sp:located_in>Humboldt County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Robert_J._Dole_Institute_of_Politics">
@@ -1334,7 +1334,7 @@
     <sp:has_name>Dog Town, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Dogtown,_ca-ruins.jpeg"/>
-    <sp:has_review>Dog Town (also, Dogtown and Dogtown Diggings) is a ghost town in Mono County, California. Today, Dog Town is a defunct gold rush era town in Mono County, California. It is located at 38掳10鈥�13鈥砃 119掳11鈥�51鈥砏, on Dog Creek, near the junction of Clearwater and Virginia Creeks, about 6 miles (10 km) south-southeast of Bridgeport, at an elevation of 7057 feet (2151 m).</sp:has_review>
+    <sp:has_review>Dog Town (also, Dogtown and Dogtown Diggings) is a ghost town in Mono County, California. Today, Dog Town is a defunct gold rush era town in Mono County, California. It is located at 38°10′13″N 119°11′51″W, on Dog Creek, near the junction of Clearwater and Virginia Creeks, about 6 miles (10 km) south-southeast of Bridgeport, at an elevation of 7057 feet (2151 m).</sp:has_review>
     <sp:located_in>Mono County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Old_Edgebrook_District">
@@ -1411,7 +1411,7 @@
     <sp:has_name>Kuttawa, Kentucky</sp:has_name>
     <sp:located_in>Kentucky</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Main_street_-_NARA_-_280617.jpg"/>
-    <sp:has_review>Kuttawa local /k??t蓱?w?/ is a 5th-class city in Lyon County, Kentucky, in the United States. The population was 649 as of the 2010 U.S. census, up from 596 in 2000.</sp:has_review>
+    <sp:has_review>Kuttawa local /k??tɑ?w?/ is a 5th-class city in Lyon County, Kentucky, in the United States. The population was 649 as of the 2010 U.S. census, up from 596 in 2000.</sp:has_review>
     <sp:located_in>Lyon County, Kentucky</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Dry_Tortugas_National_Park">
@@ -1423,7 +1423,7 @@
     <sp:has_name>East Aurora, New York</sp:has_name>
     <sp:located_in>Aurora, Erie County, New York</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Erie_County_New_York_incorporated_and_unincorporated_areas_East_Aurora_highlighted.svg"/>
-    <sp:has_review>East Aurora is a village in Erie County, New York, United States, southeast of Buffalo. It lies in the eastern half of the town of Aurora. The village population was 6,236 at the 2010 census. It is part of the Buffalo鈥揘iagara Falls Metropolitan Statistical Area. In 2015, East Aurora was rated the third-best town to raise a family in New York State by Niche.</sp:has_review>
+    <sp:has_review>East Aurora is a village in Erie County, New York, United States, southeast of Buffalo. It lies in the eastern half of the town of Aurora. The village population was 6,236 at the 2010 census. It is part of the Buffalo-Niagara Falls Metropolitan Statistical Area. In 2015, East Aurora was rated the third-best town to raise a family in New York State by Niche.</sp:has_review>
     <sp:located_in>Erie County, New York</sp:located_in>
     <sp:located_in>New York</sp:located_in>
   </sp:Spot>
@@ -1442,7 +1442,7 @@
     <sp:has_name>Deadwood, South Dakota</sp:has_name>
     <sp:located_in>Lawrence County, South Dakota</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Deadwood_today.jpg"/>
-    <sp:has_review>Deadwood (Lakota: Ow谩yasuta; \To approve or confirm things\) is a city in South Dakota, United States, and the county seat of Lawrence County. It is named after the dead trees found in its gulch. The population was 1,270 according to the 2010 census. The city includes the Deadwood Historic District, a National Historic Landmark District.</sp:has_review>
+    <sp:has_review>Deadwood (Lakota: Owáyasuta; \To approve or confirm things\) is a city in South Dakota, United States, and the county seat of Lawrence County. It is named after the dead trees found in its gulch. The population was 1,270 according to the 2010 census. The city includes the Deadwood Historic District, a National Historic Landmark District.</sp:has_review>
     <sp:located_in>South Dakota</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Oakland_(Pittsburgh)">
@@ -1538,7 +1538,7 @@
     <sp:has_name>Old San Juan</sp:has_name>
     <sp:located_in>Puerto Rico</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Old_San_Juan_aerial_view.jpg"/>
-    <sp:has_review>Old San Juan (Spanish: Viejo San Juan or San Juan Antiguo) is the oldest settlement within Puerto Rico and the historic colonial section of the city of San Juan. The settlement is a National Historic Landmark District and was listed on the National Register of Historic Places as the \Zona Hist贸rica de San Juan\ (English: San Juan Historic Site).</sp:has_review>
+    <sp:has_review>Old San Juan (Spanish: Viejo San Juan or San Juan Antiguo) is the oldest settlement within Puerto Rico and the historic colonial section of the city of San Juan. The settlement is a National Historic Landmark District and was listed on the National Register of Historic Places as the \Zona Histórica de San Juan\ (English: San Juan Historic Site).</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Big_Oak_Tree_State_Park">
     <sp:has_name>Big Oak Tree State Park</sp:has_name>
@@ -1680,7 +1680,7 @@
     <sp:has_name>Rocky Mountain National Park</sp:has_name>
     <sp:located_in>Colorado</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rocky_Mountain_National_Park_in_September_2011_-_Glacier_Gorge_from_Bear_Lake.JPG"/>
-    <sp:has_review>For the park in Manitoba, see Riding Mountain National Park.Rocky Mountain National Park is a national park located in the Front Range of the Rocky Mountains, in the north-central region of the U.S. state of Colorado.It features majestic mountain views, mountain lakes, a variety of wildlife, varied climates and environments鈥攆rom wooded forests to mountain tundra鈥攁nd easy access to back-country trails and campsites.</sp:has_review>
+    <sp:has_review>For the park in Manitoba, see Riding Mountain National Park.Rocky Mountain National Park is a national park located in the Front Range of the Rocky Mountains, in the north-central region of the U.S. state of Colorado.It features majestic mountain views, mountain lakes, a variety of wildlife, varied climates and environments—from wooded forests to mountain tundra—and easy access to back-country trails and campsites.</sp:has_review>
     <sp:located_in>Estes Park, Colorado</sp:located_in>
     <sp:located_in>Grand Lake, Colorado</sp:located_in>
   </sp:Spot>
@@ -1713,7 +1713,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Abingdon_(plantation)">
     <sp:has_name>Abingdon (plantation)</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Abingdon_foundation.jpg"/>
-    <sp:has_review>Abingdon (also known as the Alexander-Custis Plantation) was an 18th- and 19th-century plantation that the prominent Alexander, Custis, Stuart, and Hunter families owned.  The plantation's site is now located in Arlington County in the U.S. state of Virginia.Abingdon is known as the birthplace of Eleanor \Nelly\ Parke Custis Lewis (March 31, 1779 鈥� July 15, 1852), a granddaughter of Martha Washington and a step-granddaughter of United States President George Washington.</sp:has_review>
+    <sp:has_review>Abingdon (also known as the Alexander-Custis Plantation) was an 18th- and 19th-century plantation that the prominent Alexander, Custis, Stuart, and Hunter families owned.  The plantation's site is now located in Arlington County in the U.S. state of Virginia.Abingdon is known as the birthplace of Eleanor \Nelly\ Parke Custis Lewis (March 31, 1779 - July 15, 1852), a granddaughter of Martha Washington and a step-granddaughter of United States President George Washington.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Germantown,_Philadelphia">
     <sp:has_name>Germantown, Philadelphia</sp:has_name>
@@ -1739,7 +1739,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Lincoln_Memorial">
     <sp:has_name>Lincoln Memorial</sp:has_name>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg"/>
-    <sp:has_review>The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the western end of the National Mall in Washington, D.C., across from the Washington Monument. The architect was Henry Bacon; the designer of the primary statue 鈥� Abraham Lincoln, 1920 鈥� was Daniel Chester French; the Lincoln statue was carved by the Piccirilli Brothers;  and the painter of the interior murals was Jules Guerin.</sp:has_review>
+    <sp:has_review>The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the western end of the National Mall in Washington, D.C., across from the Washington Monument. The architect was Henry Bacon; the designer of the primary statue - Abraham Lincoln, 1920 - was Daniel Chester French; the Lincoln statue was carved by the Piccirilli Brothers;  and the painter of the interior murals was Jules Guerin.</sp:has_review>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Steptoe_Butte">
     <sp:has_name>Steptoe Butte</sp:has_name>
@@ -1802,7 +1802,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Woodfords,_California">
     <sp:has_name>Woodfords, California</sp:has_name>
     <sp:located_in>Alpine County, California</sp:located_in>
-    <sp:has_review>Woodfords (formerly, Brannan Springs, Carey's Mill, Cary's Mills, Carys Mill, Carys Mills, Woodford's, Carey's Mills, and Woodford) is an unincorporated community in Alpine County, California, near Markleeville. For census purposes, it is included in Alpine Village. It is located 6 miles (9.7 km) north-northwest of Markleeville, at 38掳46鈥�40鈥砃 119掳49鈥�19鈥砏.Woodfords holds title as the oldest non-native settlement in the entire region.</sp:has_review>
+    <sp:has_review>Woodfords (formerly, Brannan Springs, Carey's Mill, Cary's Mills, Carys Mill, Carys Mills, Woodford's, Carey's Mills, and Woodford) is an unincorporated community in Alpine County, California, near Markleeville. For census purposes, it is included in Alpine Village. It is located 6 miles (9.7 km) north-northwest of Markleeville, at 38°46′40″N 119°49′19″W.Woodfords holds title as the oldest non-native settlement in the entire region.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Isle_Royale_National_Park">
@@ -1829,7 +1829,7 @@
     <sp:has_name>Diamond Springs, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/El_Dorado_County_California_Incorporated_and_Unincorporated_areas_Diamond_Springs_Highlighted.svg"/>
-    <sp:has_review>Diamond Springs (formerly, Diamond Spring and Diamond) is a census-designated place (CDP) in El Dorado County, California, United States. It is part of the Sacramento鈥揂rden-Arcade鈥揜oseville Metropolitan Statistical Area. The population was 11,037 at the 2010 census, up from 4,888 at the 2000 census. The town is registered as California Historical Landmark #487. It lies at an elevation of 1791 feet (546 m).</sp:has_review>
+    <sp:has_review>Diamond Springs (formerly, Diamond Spring and Diamond) is a census-designated place (CDP) in El Dorado County, California, United States. It is part of the Sacramento-Arden-Arcade-Roseville Metropolitan Statistical Area. The population was 11,037 at the 2010 census, up from 4,888 at the 2000 census. The town is registered as California Historical Landmark #487. It lies at an elevation of 1791 feet (546 m).</sp:has_review>
     <sp:located_in>El Dorado County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Camanche,_California">
@@ -1876,7 +1876,7 @@
   <sp:Spot rdf:about="http://dbpedia.org/resource/Carson_Hill,_California">
     <sp:has_name>Carson Hill, California</sp:has_name>
     <sp:located_in>Calaveras County, California</sp:located_in>
-    <sp:has_review>Carson Hill (also, Carson Flat and Melones and Slumgullion) is a ghost town in Calaveras County, California. It sits at an elevation of 1447 feet (441 m) above sea level and is located at 38掳01鈥�42鈥砃 120掳30鈥�24鈥砏, about 4 miles (6.4 km) south-southeast of Angels Camp. It was one of the most productive mining camps in the state, with nearly $26 million in gold and quartz found in the area. Carson Hill is registered as California Historical Landmark #274.</sp:has_review>
+    <sp:has_review>Carson Hill (also, Carson Flat and Melones and Slumgullion) is a ghost town in Calaveras County, California. It sits at an elevation of 1447 feet (441 m) above sea level and is located at 38°01′42″N 120°30′24″W, about 4 miles (6.4 km) south-southeast of Angels Camp. It was one of the most productive mining camps in the state, with nearly $26 million in gold and quartz found in the area. Carson Hill is registered as California Historical Landmark #274.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Hye,_Texas">
@@ -1914,20 +1914,20 @@
     <sp:has_name>Volcano, California</sp:has_name>
     <sp:located_in>Amador County, California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/2009-0724-CA-StGeorgeHotel.jpg"/>
-    <sp:has_review>Volcano (formerly, Soldier's Gulch and The Volcano) is a census-designated place in Amador County, California. It lies at an elevation of 2070 feet (631 m). The population was 115 at the 2010 census. It is located at 38掳26鈥�35鈥砃 120掳37鈥�51鈥砏, just north of Pine Grove. The town is registered as a California Historical Landmark. The community is in ZIP code 95689 and area code 209.</sp:has_review>
+    <sp:has_review>Volcano (formerly, Soldier's Gulch and The Volcano) is a census-designated place in Amador County, California. It lies at an elevation of 2070 feet (631 m). The population was 115 at the 2010 census. It is located at 38°26′35″N 120°37′51″W, just north of Pine Grove. The town is registered as a California Historical Landmark. The community is in ZIP code 95689 and area code 209.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Penryn,_California">
     <sp:has_name>Penryn, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
-    <sp:has_review>Penryn (Washo: p茅nwin ) is a census-designated place in Placer County, California, in the United States. Geographic location is 38掳51鈥�08鈥砃 121掳10鈥�06鈥砏. Penryn is located 5.5 miles (8.9 km) northeast of Rocklin.  The community's ZIP code is 95663 and the area code 916. The population was 831 at the 2010 census.</sp:has_review>
+    <sp:has_review>Penryn (Washo: pénwin ) is a census-designated place in Placer County, California, in the United States. Geographic location is 38°51′08″N 121°10′06″W. Penryn is located 5.5 miles (8.9 km) northeast of Rocklin.  The community's ZIP code is 95663 and the area code 916. The population was 831 at the 2010 census.</sp:has_review>
     <sp:located_in>Placer County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Placerville,_California">
     <sp:has_name>Placerville, California</sp:has_name>
     <sp:located_in>California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/2009-0724-ElDoradoCtyCrt.jpg"/>
-    <sp:has_review>Placerville (/?pl?s?rv?l/, PLASS-?r-vil; formerly Old Dry Diggings, Dry Diggings, and Hangtown) is the county seat of El Dorado County, California. The population was 10,389 at the 2010 census, up from 9,610 at the 2000 census. It is part of the Sacramento鈥揂rden-Arcade鈥揜oseville Metropolitan Statistical Area.</sp:has_review>
+    <sp:has_review>Placerville (/?pl?s?rv?l/, PLASS-?r-vil; formerly Old Dry Diggings, Dry Diggings, and Hangtown) is the county seat of El Dorado County, California. The population was 10,389 at the 2010 census, up from 9,610 at the 2000 census. It is part of the Sacramento-Arden-Arcade-Roseville Metropolitan Statistical Area.</sp:has_review>
     <sp:located_in>El Dorado County, California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Arches_National_Park">
@@ -1945,7 +1945,7 @@
     <sp:has_name>Point Barrow</sp:has_name>
     <sp:located_in>Alaska</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wilkins_arctic_expedition_1926.jpg"/>
-    <sp:has_review>Point Barrow or Nuvuk is a headland on the Arctic coast in the U.S. state of Alaska, 9 miles (14 km) northeast of Barrow. It is the northernmost point of all the territory of the United States, at 71掳23鈥�20鈥砃 156掳28鈥�45鈥砏. The distance to the North Pole is 1,122 nautical miles (1,291 mi; 2,078 km). The northernmost point on the Canadian mainland, Murchison Promontory, is 40 miles (64 km) farther north.</sp:has_review>
+    <sp:has_review>Point Barrow or Nuvuk is a headland on the Arctic coast in the U.S. state of Alaska, 9 miles (14 km) northeast of Barrow. It is the northernmost point of all the territory of the United States, at 71°23′20″N 156°28′45″W. The distance to the North Pole is 1,122 nautical miles (1,291 mi; 2,078 km). The northernmost point on the Canadian mainland, Murchison Promontory, is 40 miles (64 km) farther north.</sp:has_review>
     <sp:located_in>North Slope Borough, Alaska</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Kingston,_California">
@@ -1985,14 +1985,14 @@
     <sp:has_name>Douglas Flat, California</sp:has_name>
     <sp:located_in>Calaveras County, California</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Douglas_Flat_School.JPG"/>
-    <sp:has_review>Douglas Flat (formerly, Douglasflat and Douglass Flat) is an unincorporated community in Calaveras County, California. It lies at an elevation of 1965 feet (599 m) and is located at 38掳06鈥�52鈥砃 120掳27鈥�18鈥砏. The community is in ZIP code 95229 and area code 209.Douglas Flat was a roaring mining camp of the early 1850s. In 1857 the Harper and Lone Star Claims produced $130,000 worth of gold.</sp:has_review>
+    <sp:has_review>Douglas Flat (formerly, Douglasflat and Douglass Flat) is an unincorporated community in Calaveras County, California. It lies at an elevation of 1965 feet (599 m) and is located at 38°06′52″N 120°27′18″W. The community is in ZIP code 95229 and area code 209.Douglas Flat was a roaring mining camp of the early 1850s. In 1857 the Harper and Lone Star Claims produced $130,000 worth of gold.</sp:has_review>
     <sp:located_in>California</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/Grapetown,_Texas">
     <sp:has_name>Grapetown, Texas</sp:has_name>
     <sp:located_in>Gillespie County, Texas</sp:located_in>
     <sp:has_picture rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Relief_map_of_Texas.png"/>
-    <sp:has_review>Grapetown is an unincorporated farming and ranching community 9.5 miles (15.3 km) south of Fredericksburg, situated on South Grape Creek in Gillespie County, in the U.S. state of Texas.  It is located on the old Pinta Trail.  Grapetown is noted for being the site of the first annual Gillespie County Bundes Sch眉tzenfest. The school was designated a Recorded Texas Historic Landmark in 1984, Marker number 10048.</sp:has_review>
+    <sp:has_review>Grapetown is an unincorporated farming and ranching community 9.5 miles (15.3 km) south of Fredericksburg, situated on South Grape Creek in Gillespie County, in the U.S. state of Texas.  It is located on the old Pinta Trail.  Grapetown is noted for being the site of the first annual Gillespie County Bundes Schützenfest. The school was designated a Recorded Texas Historic Landmark in 1984, Marker number 10048.</sp:has_review>
     <sp:located_in>Texas</sp:located_in>
   </sp:Spot>
   <sp:Spot rdf:about="http://dbpedia.org/resource/La_Fortaleza">
