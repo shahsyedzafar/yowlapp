@@ -113,7 +113,7 @@ public class SpotManager {
 		populateSpot();
 		TouristSpot result = new TouristSpot();
 		Name = Name.split("\\(")[0];
-		
+		Name = Name.replace("'", "\\'");
 		String queryRequest = " select DISTINCT ?name ?img ?location ?comment where { ?spot sp:has_name ?name;"
 				 
                 + "sp:has_review ?comment."

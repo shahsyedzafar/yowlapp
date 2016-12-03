@@ -68,15 +68,21 @@ public class TweetManager {
 	
 	public List<Tweet> GetTweetsByTouristSpot(String spot){
 		spot = spot.replace(",", " ");
+		//spot = spot.split("\\(")[0];
+		spot = spot.replace("'", "\\'");
+		spot = spot.replace("\\(", "");
+		spot = spot.replace("\\)", "");
 		populateTweets();
 		List<Tweet> result = new ArrayList<Tweet>();
 		String queryRequest = " select DISTINCT ?data ?media ?hashTag where { ?tweet sp:has_tweetData ?data; "
 				+ "sp:has_media ?media;"
 				+ "sp:has_hashTag ?hashTag;"
-				+ "sp:has_touristSpot '"+ spot +"'.}";
+				+"sp:has_touristSpot '" + spot + "'.}";
+				//+ "sp:has_touristSpot ?spot."
+				//+ "FILTER regex(?spot, '"+spot+"')}";
 		
 		StringBuffer queryStr = new StringBuffer();
-		
+		System.out.println(queryRequest);
 		  // Establish Prefixes
 		  //Set default Name space first
 		  queryStr.append("PREFIX sp" + ": <" + defaultNameSpace + "> ");
