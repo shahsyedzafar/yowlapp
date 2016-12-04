@@ -4,6 +4,7 @@ First create a local folder in your system and do
 git init https://github.com/shahsyedzafar/yowlapp.git</br>
 Import the application ws-yowlApp in eclipse</br>
 Download *pellet-jars* and *jstl-jars* and put it on build path of eclipse.</br>
+For running it in localhost web server put pellet-jars and jstl-jars on deployment assembly of eclipse</br>
 just run the application to get started</br>
 
 #Setup of Scraper
